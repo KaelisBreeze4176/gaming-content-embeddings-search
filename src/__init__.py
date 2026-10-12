@@ -1,0 +1,1 @@
+"""Game search example package."""
